@@ -19947,7 +19947,7 @@ _.a=null
 _.b=b
 _.c=null},
 Co:function Co(){},
-aBn(){return A.b([A.ep(A.akg("assets/images/github.png",null),32,new A.a0u(),24,"Take me to Github!"),A.ep(A.akg("assets/images/linkedin.png",null),32,new A.a0v(),24,"Take me to Linkedin!"),A.ep(B.BS,32,new A.a0w(),24,"Send me an email")],t.b0)},
+aBn(){return A.b([A.ep(A.akg("/images/github.png",null),32,new A.a0u(),24,"Take me to Github!"),A.ep(A.akg("images/linkedin.png",null),32,new A.a0v(),24,"Take me to Linkedin!"),A.ep(B.BS,32,new A.a0w(),24,"Send me an email")],t.b0)},
 GZ:function GZ(a){this.a=a},
 a0u:function a0u(){},
 a0v:function a0v(){},
